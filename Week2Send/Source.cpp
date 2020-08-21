@@ -9,12 +9,16 @@ int main()
 	{
 		if (input_3 > 20)
 		{
-			printf(">< so much");
+			printf(">< so much\n");
+			printf("><\n");
+			printf("><\n");
 			return 0;
 		}
 		else
 		{
-			printf("-_- little bit");
+			printf("-_- little bit\n");
+			printf("-_-\n");
+			printf("-_-\n");
 			return 0;
 		}
 	}
